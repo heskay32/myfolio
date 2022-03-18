@@ -2,3 +2,4 @@ baseURL = ' http://heskay32.github.io/myfolio/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme ='ananke'
+canonifyURLS = true
