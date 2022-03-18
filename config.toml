@@ -11,6 +11,15 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[languages]
+  [languages.en]
+    title = "Daramola-Olasunkanmi"
+    weight = 1
+    contentDir = "content/en"
+  [languages.fr]
+    title = "Ananke Fr"
+    weight = 2
+    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
