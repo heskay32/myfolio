@@ -12,6 +12,19 @@ title: "Data Preparation with R"
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 * Built a client facing API using flask
 
+### Overview
+Data Cleaning, addressing missing values and getting data into goood shape for further analysis in R
+
+**Here are some python codes blocks**
+
+<div style="background-color: rgb(50, 50, 50);">
+
+``python
+print("Yo!")
+``
+
+</div>
+
 {{< figure src="/images/positions_by_state.png">}}
 
 [Link to github repo](https://github.com/heskay32/testt)
