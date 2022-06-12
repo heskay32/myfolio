@@ -24,4 +24,7 @@ Data Cleaning, addressing missing values and getting data into goood shape for f
 
 {{< figure src="/images/positions_by_state.png">}}
 
-[Link to github repo](https://github.com/heskay32/testt)
+[Link to github repo](https://github.com/heskay32/testt){: .btn}
+
+An example for button link:
+<button name="button" onclick="http://www.google.com">Click me</button>
