@@ -24,7 +24,9 @@ Data Cleaning, addressing missing values and getting data into goood shape for f
 
 {{< figure src="/images/positions_by_state.png">}}
 
-[Link to github repo](https://github.com/heskay32/testt){: .btn}
+[Link to github repo](https://github.com/heskay32/testt)
 
-An example for button link:
-<button name="button" onclick="http://www.google.com">Click me</button>
+```python
+  def add(num1, num2):
+    return num1 + num2
+```
