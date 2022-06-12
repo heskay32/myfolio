@@ -17,13 +17,10 @@ Data Cleaning, addressing missing values and getting data into goood shape for f
 
 **Here are some python codes blocks**
 
-<div style="background-color: rgb(50, 50, 50);">
-
 ``python
 print("Yo!")
 ``
 
-</div>
 
 {{< figure src="/images/positions_by_state.png">}}
 
