@@ -17,9 +17,9 @@ Data Cleaning, addressing missing values and getting data into goood shape for f
 
 **Here are some python codes blocks**
 
-``python
-print("Yo!")
-``
+	print("Yo!")
+	import pandas as pd
+	import sklearn
 
 
 {{< figure src="/images/positions_by_state.png">}}
