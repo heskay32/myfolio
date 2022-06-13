@@ -27,9 +27,13 @@ I downloaded two active datasets from the NYC Open Data repository.
 - **NYC Jobs:** Contains information about current job postings available on the City of New York’s official jobs site.
 [Link to Data](https://data.cityofnewyork.us/City-Government/NYC-Jobs/pda4-rgn4/data)
 
-## Method
+## Methods
 
-**PySpark:**
+**Spark:** Apache Spark™ is a multi-language processing engine for executing data engineering, data science, and machine learning on single-node machines or clusters’https://spark.apache.org/
+
+**Resilient Distributed Dataset (RDD):** A fundamental data structure of Apache Spark that allows the storage and processing of data accross clusters. It is fault-tolerant and can be operated in parallel.
+
+I used big data tools(Spark) because Data like the "civil service list" gets updated frequently and can grow to millions of rows over time.RDD optimizes lazy evaluation to increase Spark computational speed
 
 ## Questions to be answered
 
@@ -39,4 +43,9 @@ I downloaded two active datasets from the NYC Open Data repository.
 
 ## Data Analysis
 
+I uploaded both data to data bricks and performed the analysis on a single node cluster.
 I used Spark RDD filter and map transformation to processing the data into shape. I separated the data into columns corresponding to the header before filtering out the header and columns that are not relevant to answering our questions.
+
+Let’s address the first question: *How many Candidates qualify for jobs in the police department*? *And what job types has most qualified candidates*?
+
+{{< figure src="/images/count.png">}}
