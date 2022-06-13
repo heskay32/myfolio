@@ -53,6 +53,8 @@ Let’s address the first question: *How many Candidates qualify for jobs in the
 
 normal
 
+<a href="https://www.google.com">Google</a>
+
 ![The San Juan Mountains are beautiful!](/images/count.png "San Juan Mountains")
 
 this is fi3

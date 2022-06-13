@@ -39,3 +39,9 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/olasunkanmi-daramola-opeyemi"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
