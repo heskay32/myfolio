@@ -55,4 +55,8 @@ normal
 
 ![The San Juan Mountains are beautiful!](/images/count.png "San Juan Mountains")
 
+this is fi3
+
+![The San Juan Mountains are beautiful!](/images/fig3.png "San Juan Mountains")
+
 <img src="/images/count.png" style="width: 10%">
