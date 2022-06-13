@@ -47,5 +47,3 @@ url = "https://www.linkedin.com/in/olasunkanmi-daramola-opeyemi"
       unsafe = true
 
 
-[[params.customCSS]]
- href = "/css/custom.css"
