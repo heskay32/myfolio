@@ -48,4 +48,5 @@ I used Spark RDD filter and map transformation to processing the data into shape
 
 Let’s address the first question: *How many Candidates qualify for jobs in the police department*? *And what job types has most qualified candidates*?
 
-{{< figure src="/images/count.png">}}
+{{ $image := .Resources.GetMatch "count.png" }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
