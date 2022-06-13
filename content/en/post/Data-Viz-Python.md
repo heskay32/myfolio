@@ -51,6 +51,6 @@ Let’s address the first question: *How many Candidates qualify for jobs in the
 
 {{< figure src="/images/count.png">}}
 
-new image
+new another
 
-<img src="/images/count.png" width="200" height="100">
+<img src="/images/count.png" width="10%">
