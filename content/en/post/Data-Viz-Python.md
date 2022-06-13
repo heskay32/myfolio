@@ -53,4 +53,4 @@ Let’s address the first question: *How many Candidates qualify for jobs in the
 
 new another
 
-<img src="/images/count.png" width="10%">
+<img src="/images/count.png" style="width: 10%">
