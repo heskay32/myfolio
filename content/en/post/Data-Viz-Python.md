@@ -61,4 +61,4 @@ this is fi3
 
 ![The San Juan Mountains are beautiful!](/images/fig3.png "San Juan Mountains")
 
-<img src="/images/count.png" style="width: 100%;">
+<img src="/images/count.png" width="1200" height="600">
