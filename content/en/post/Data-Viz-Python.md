@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 description: "Big data analysis"
-featured_image: "/images/sparklogo.jpg"
+featured_image: "/images/sparklogo.png"
 tags: ['Big data', 'PySpark', 'Spark RDD', 'MapReduce', 'DBFS']
 title: "Analysis of New York Law Enforcement Civil Service Jobs Using Python PySpark"
 disable_share: false
@@ -27,8 +27,16 @@ I downloaded two active datasets from the NYC Open Data repository.
 - **NYC Jobs:** Contains information about current job postings available on the City of New York’s official jobs site.
 [Link to Data](https://data.cityofnewyork.us/City-Government/NYC-Jobs/pda4-rgn4/data)
 
-**Questions to be answered**
+## Method
+
+**PySpark:**
+
+## Questions to be answered
 
 - How many Candidates qualify for jobs in the police department? And what job types has most qualified candidates?
 - What type of job postings are been advertised in the police department.
 - Are there vacancies for qualified candidates?
+
+## Data Analysis
+
+I used Spark RDD filter and map transformation to processing the data into shape. I separated the data into columns corresponding to the header before filtering out the header and columns that are not relevant to answering our questions.
