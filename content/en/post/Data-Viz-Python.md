@@ -51,6 +51,8 @@ Let’s address the first question: *How many Candidates qualify for jobs in the
 
 {{< figure src="/images/count.png">}}
 
-new another
+normal
+
+![The San Juan Mountains are beautiful!](/images/count.png "San Juan Mountains")
 
 <img src="/images/count.png" style="width: 10%">
