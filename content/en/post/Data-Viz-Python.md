@@ -57,7 +57,7 @@ normal
 
 ![The San Juan Mountains are beautiful!](/images/count.png "San Juan Mountains")
 
-this is fi3
+this is figure 3
 
 ![The San Juan Mountains are beautiful!](/images/fig3.png "San Juan Mountains")
 
