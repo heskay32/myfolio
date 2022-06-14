@@ -53,12 +53,11 @@ Let’s address the first question: *How many Candidates qualify for jobs in the
 
 normal
 
-<a href="https://www.google.com">Google</a>
 
-![The San Juan Mountains are beautiful!](/images/count.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/images/nwcount.png "San Juan Mountains")
 
 this is figure 3
 
-![The San Juan Mountains are beautiful!](/images/fig3.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/images/fig33.png "San Juan Mountains")
 
-<img src="/images/count.png" width="800" height="400">
+<img src="/images/nwcount.png" width="800">
