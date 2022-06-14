@@ -30,3 +30,7 @@ Data Cleaning, addressing missing values and getting data into goood shape for f
   def add(num1, num2):
     return num1 + num2
 ```
+
+{{< figure src="/images/count.png">}}
+
+<img src="/images/nwcount.png" width="800">

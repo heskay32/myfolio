@@ -46,18 +46,36 @@ I used big data tools(Spark) because Data like the "civil service list" gets upd
 I uploaded both data to data bricks and performed the analysis on a single node cluster.
 I used Spark RDD filter and map transformation to processing the data into shape. I separated the data into columns corresponding to the header before filtering out the header and columns that are not relevant to answering our questions.
 
-Let’s address the first question: *How many Candidates qualify for jobs in the police department*? *And what job types has most qualified candidates*?
+Let’s address the first question: *How many Candidates qualify for jobs in the police department*? *And jobs with most qualified candidates*?
 
 
-{{< figure src="/images/count.png">}}
-
-normal
-
-
-![The San Juan Mountains are beautiful!](/images/nwcount.png "San Juan Mountains")
+![Number of qualified candidates!](/images/nwcount.png "fig1")
 
 this is figure 3
 
-![The San Juan Mountains are beautiful!](/images/fig33.png "San Juan Mountains")
+![Histogram chart of qualified candidates!](/images/fig33.png "fig2")
 
-<img src="/images/nwcount.png" width="800">
+We can see that out of 576,998 qualified candidates, 10,789 are available for jobs in the police department. However, Police Officer and Sergeant Police has the highest number of candidate.
+
+funfact: 
+
+I also wanted to know *the types of job postings advertised in the police department*?
+
+![Histogram chart of qualified candidates!](/images/fig2.png "fig3")
+
+Most advertised jobs are the ones that are not available to the general public.
+
+**Further Analysis**
+
+*Advertised Positions with most vacancies*
+
+![Histogram chart of qualified candidates!](/images/fig4.png "fig4")
+
+Shockingly, jobs with available vacancies does not correspond to jobs that has high qualified candidates  
+
+And lastly i wanted to know *the number of vacancies available for qualified candidates and jobs that are vacant*.
+To achieve this, i joined the two datasets(mor details in Notebook)
+
+![Histogram chart of qualified candidates!](/images/jobcount.png "fig4")
+
+![Histogram chart of qualified candidates!](/images/jobs.png "fig4")
