@@ -49,7 +49,7 @@ I used Spark RDD filter and map transformation to processing the data into shape
 Let’s address the first question: *How many Candidates qualify for jobs in the police department*? *And jobs with most qualified candidates*?
 
 
-![Number of qualified candidates!](/images/nwcount.png "fig1")
+![Number of qualified candidates!](/images/count2.png "fig1")
 
 this is figure 3
 
