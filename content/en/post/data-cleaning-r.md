@@ -34,3 +34,6 @@ Data Cleaning, addressing missing values and getting data into goood shape for f
 {{< figure src="/images/count.png">}}
 
 <img src="/images/nwcount.png" width="800">
+
+
+data-viz-python
