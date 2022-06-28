@@ -28,7 +28,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Daramola-Olasunkanmi"
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
