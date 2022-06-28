@@ -28,7 +28,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = "Daramola-Olasunkanmi"
+  author = ""
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
@@ -40,7 +40,6 @@ enableRobotsTXT = true
 name = "linkedin"
 url = "https://www.linkedin.com/in/olasunkanmi-daramola-opeyemi"
 
-[params.ananke_socials]
 name = "github"
 url = "https://www.github.com/heskay32"
 
