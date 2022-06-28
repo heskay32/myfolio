@@ -1,5 +1,4 @@
 ---
-date: 2022-06-28T11:25:05-04:00
 description: "Big data analysis"
 featured_image: "/images/sparklogo.png"
 tags: ['Big data', 'PySpark', 'Spark RDD', 'MapReduce', 'DBFS']
