@@ -1,6 +1,6 @@
 ---
 date: 2022-06-11T11:15:58-04:00
-description: "Big data analysis"
+description: "[Image source](https://www.spark.apache.org/)"
 featured_image: "/images/sparklogo.png"
 tags: ['Big data', 'PySpark', 'Spark RDD', 'MapReduce', 'DBFS']
 title: "Analysis of New York Police Department Civil Service Jobs Using Spark"
