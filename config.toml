@@ -14,7 +14,7 @@ enableRobotsTXT = true
 [languages]
   [languages.en]
     title = "Daramola-Olasunkanmi"
-    weight = 1
+    weight = 2
     contentDir = "content/en"
   [languages.fr]
     title = "Ananke Fr"
@@ -28,7 +28,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Daramola Olasunkanmi"
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
@@ -39,6 +39,10 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/olasunkanmi-daramola-opeyemi"
+
+[params.ananke_socials]
+name = "github"
+url = "https://www.github.com/heskay32"
 
 
 [markup]
