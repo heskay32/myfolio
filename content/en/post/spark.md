@@ -1,9 +1,9 @@
 ---
-date: 2017-04-14T11:25:05-04:00
+date: 2022-06-28T11:25:05-04:00
 description: "Big data analysis"
 featured_image: "/images/sparklogo.png"
 tags: ['Big data', 'PySpark', 'Spark RDD', 'MapReduce', 'DBFS']
-title: "Analysis of New York Law Enforcement Civil Service Jobs Using Spark"
+title: "Analysis of New York Police Department Civil Service Jobs Using Spark"
 disable_share: false
 ---
 - Processed data using Map transformation and filters.
@@ -15,7 +15,7 @@ disable_share: false
 
 ## Motivation
 
-The difficulty with recruitment within the law enforcement agency in the United States has caused a significant problem that is broadly affecting the field of law enforcement. The civil service is an independent body that works with the government by providing different services to the people including employment. With the level of increased crime in New York City and the united state generally, i wonder if the police department has enough qualified candidates and if there are available vacancies for these qualified candidates. I have used New York City has a case study. 
+The difficulty with recruitment within the law enforcement agency in the United States has caused a significant problem that is broadly affecting the [police department](https://www.foxnews.com/us/us-police-departments-cops-job-recruitment-anti-cop-climate). The civil service is an independent body that works with the government by providing different services to the people including employment. With the level of increased crime in New York City and the united state generally, i wonder if there are enough people willing to join the police force and if there are available vacancies for them. I have used New York City has a case study. 
 
 ## Data
 
@@ -37,7 +37,7 @@ I used big data tools(Spark) because Data like the "civil service list" gets upd
 
 ## Questions to be answered
 
-- How many Candidates qualify for civil service jobs in the police department? And what civil service titles has most qualified candidates?
+- How many Candidates qualify for civil service jobs in the police department? And which civil service titles has most qualified candidates?
 - What type of job postings are been advertised in the police department.
 - Are there vacancies for qualified candidates on the civil service list?
 
@@ -58,7 +58,7 @@ We can see that out of 576,998 qualified candidates, 10,789 are available for jo
 
 **Advertised Positions with most vacancies**
 
-![Histogram chart of qualified candidates!](/images/fig4.png "fig4")
+![Histogram chart of Jobs!](/images/fig4.png "fig4")
 
 Shockingly, jobs with available vacancies are not in the top 10 jobs with high number of qualified candidates
 
@@ -73,13 +73,13 @@ Most advertised jobs are the ones that are not available to the general public.
 **Number of civil service title available for qualified candidates and jobs that are vacant**.
 To achieve this, i joined the two datasets(mor details in Notebook)
 
-![Histogram chart of qualified candidates!](/images/jobcount.png "fig4")
+![Job list!](/images/jobcount.png "fig4")
 
-![Histogram chart of qualified candidates!](/images/jobs.png "fig4")
+![Job listing!](/images/jobs.png "fig4")
 
 Surprisingly only SENIOR POLICE
-ADMINISTRATIVE-10147 and ASSOCIATE STAFF ANALYST-12627 civil service titles are available for qualified candidates. However Senior police administrative has more qualified candidayes and vacancies.
+ADMINISTRATIVE-10147 and ASSOCIATE STAFF ANALYST-12627 civil service titles are available for qualified candidates. However Senior police administrative has more qualified candidates and vacancies.
 
 ## Conclusion
 
-This analysis has shown the level of under recruitement in the police department in New York City. One would think that Police Officer and sergeant police would have more job postings since they are more needed and has the highest number of qualified candidates, but results shows that the senior police administrative jobs which has less number of qualified candidates has more job vacancies. We can easily deduce that Jobs are not available for candidates on the civil service list waiting to be assigned a position within the police department. 
+From this analysis we can easily see that there is under recruitement in the New York Police department. One would think that Police Officer and sergeant police would have more job postings since they are more needed and has the highest number of qualified candidates, but results shows that the senior police administrative jobs which has less number of qualified candidates has more job vacancies. This may be because most of the available jobs are internal. However, we see that Jobs are not available for most candidates on the civil service list waiting to be assigned a position within the police department. 
