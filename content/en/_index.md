@@ -5,7 +5,7 @@ description: "A Data Scientist. I love generating insights from data through dat
 cascade:
   featured_image: '/images/datascience.jpg'
 ---
-Welcome, below are some of my recent projects.
+# MY SKILLS
 
 
 <table>
