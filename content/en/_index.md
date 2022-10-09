@@ -6,3 +6,5 @@ cascade:
   featured_image: '/images/datascience.jpg'
 ---
 Welcome, below are some of my recent projects.
+
+<img src='/images/python-logo.png'/>
