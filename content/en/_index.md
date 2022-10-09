@@ -7,4 +7,26 @@ cascade:
 ---
 Welcome, below are some of my recent projects.
 
-<img src='/images/R_-Logo.png'/>
+
+<table>
+  <tr>
+    <td>
+      <img src='/images/python_logo.png'width=50/>
+    </td>
+    <td>
+      <img src='/images/R_-Logo.png'width=50/>
+    </td>
+    <td>
+      <img src='/images/sql-logo.png'width=50/>
+    </td>
+    <td>
+      <img src='/images/spark-logo.jpg'width=50/>
+    </td>
+    <td>
+      <img src='/images/bi-logo.jpg'width=50/>
+    </td>
+    <td>
+      <img src='/images/excel-log.png'width=50/>
+    </td>
+  </tr>
+</table>
