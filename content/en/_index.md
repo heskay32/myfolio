@@ -7,4 +7,4 @@ cascade:
 ---
 Welcome, below are some of my recent projects.
 
-<img src='/images/R_-logo.png'/>
+<img src='/images/R_-Logo.png'/>
