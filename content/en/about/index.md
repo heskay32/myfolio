@@ -2,11 +2,9 @@
 title: "About Me"
 description: ""
 featured_image: '/images/datascience.jpg'
-menu:
-  main:
-    weight: 1
+
 ---
-{{< figure src="/images/DP.jpg" title="my picture" >}}
+{{< figure src="/images/DP.jpg" title="" >}}
 
 Hello! I'm Olasunkanmi Daramola, a Data scientist currently based in the UK.
 
