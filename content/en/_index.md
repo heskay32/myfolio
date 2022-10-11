@@ -1,7 +1,7 @@
 ---
 title: "HI, I'M OLASUNKANMI DARAMOLA"
 
-description: "A Data Scientist. I love generating insights from data through data analysis and visualization. With a background in statistics, i understand how to use machine learning algorithms and statistical models to find hidden patterns in data"
+description: "A Data Scientist. I enjoy gathering, manipulate and find hiddden patterns within datasets. Its like a detective looking for clues"
 cascade:
   featured_image: '/images/datascience.jpg'
 ---
