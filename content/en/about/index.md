@@ -2,7 +2,9 @@
 title: "About Me"
 description: ""
 featured_image: '/images/datascience.jpg'
-
+menu:
+  main:
+    weight: 1
 ---
 {{< figure src="/images/DP.jpg" title="" >}}
 
