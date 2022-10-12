@@ -1,7 +1,7 @@
 ---
 title: "HI, I'M OLASUNKANMI DARAMOLA"
 
-description: "A Data Scientist. I enjoy gathering, manipulate and find hiddden patterns within datasets. Its like a detective looking for clues"
+description: "A Data Scientist. I enjoy gathering, manipulating and finding hiddden patterns within datasets. Its like a detective looking for clues"
 cascade:
   featured_image: '/images/datascience.jpg'
 ---
