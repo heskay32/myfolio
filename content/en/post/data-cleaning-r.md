@@ -1,6 +1,6 @@
 ---
 date: 2022-06-13T11:15:58-04:00
-description: "Data Cleaning, addressing missing values and getting data into goood shape for further analysis in R"
+description: ""
 featured_image: "/images/Carbackground.png"
 tags: ['Deep Learning','CNN','Computer Vision','Machine Learning']
 title: "Car Damage Inspection Using Deep Learning"
@@ -32,5 +32,24 @@ logistic regression).
 
 ![Normal cars!](/images/normal.png "fig1")
 
-![Damaged cars!](/images/damagedcars.png "fig2")
+![Damaged cars!](/images/damagecars.png "fig2")
+
+![bar1!](/images/damage.png "fig3")
+
+**Damage Location**
+
+![Front damage!](/images/front.png "fig4")
+
+![bar2!](/images/locationbar.png "fig5")
+
+**Damage Severity**
+
+![Minor damage!](/images/minor.png "fig6")
+
+![bar2!](/images/severitybar.png "fig7")
+
+[Link to Jupyter Notebook](https://nbviewer.org/gist/heskay32/e07a5de58945922ac7ee1445ad9776f7)
+for full analysis.
+
+**Demo**
 
