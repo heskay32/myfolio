@@ -1,42 +1,36 @@
 ---
 date: 2022-06-13T11:15:58-04:00
 description: "Data Cleaning, addressing missing values and getting data into goood shape for further analysis in R"
-featured_image: ""
-tags: []
-title: "Data Preparation with R"
+featured_image: "/images/Carbackground.png"
+tags: ['Deep Learning','CNN','Computer Vision','Machine Learning']
+title: "Car Damage Inspection Using Deep Learning"
 ---
+ 
+* A web application that allows users to upload their car pictures for damage inspection in order to facilitate their car insurance claim. 
 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-* Built a client facing API using flask
+* Utilized Convolution Neural Network architecture with transfer learning to build a classification
+model for detecting car damages, using VGG16.
 
-### Overview
-Data Cleaning, addressing missing values and getting data into goood shape for further analysis in R
+* Extracted features from images, using VGG16 weights.
 
-**Here are some python codes blocks**
+* Leveraged different machine learning algorithms to build classification models (random forest,
+logistic regression).
 
-	print("Yo!")
-	import pandas as pd
-	import sklearn
+* Performed Exploratory Data Analysis (EDA) on image data.
 
+* Collected image data through web scraping..
 
-{{< figure src="/images/positions_by_state.png">}}
+* Utilized Django web framework to develop a web application for users.
 
-[Link to github repo](https://github.com/heskay32/testt)
+[Link to Github](https://github.com/heskay32/car-damage-inspection-using-deep-learning)
 
-```python
-  def add(num1, num2):
-    return num1 + num2
-```
+[Link to Jupyter Notebook](https://nbviewer.org/gist/heskay32/e07a5de58945922ac7ee1445ad9776f7)
 
-{{< figure src="/images/count.png">}}
+## Exploratory Analysis
 
-<img src="/images/nwcount.png" width="800">
+**Damaged/Normal Car Images**
 
+![Normal cars!](/images/normal.png "fig1")
 
-data-viz-python
+![Damaged cars!](/images/damagedcars.png "fig2")
 
-
-jusr to check
