@@ -53,3 +53,4 @@ for full analysis.
 
 **Demo**
 
+![Demo!](/images/Demo.gif "fig8")
